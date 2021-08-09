@@ -1,9 +1,13 @@
 # Horiseon
 
-THIS PROJECT OFFERS A WORKABLE INTERFACE IN ORDER TO LEARN MORE ABOUT THE SERVICES OFFERED BY HORISEON. 
+This project was requested by the company Horiseon in order to help potential clients learn more about how they can assist them in growing the visiability and marketability of their company.
 
-USERS WILL FIND THAT THIS SITE ALLOWS YOU TO NAVIGATE FROM NAV BAR THROUGHOUT SITE TO SEE MORE INFORMATION ABOUT SERVICE OFFERED BY THE COMPANY. SITE MEETS ALL ACCESSABILILTY CRITERIA.
+Below is a screenshot of how their vision was deployed.
 
 ![ScreenShot](./assets/images/horiseon_screenshot.png)
 
-YOU MAY ACCESS THIS APPLICATION AT: HTTPS://ASECORD92.GITHUB.IO/HORISEON/
+In this project, there is a working navigation bar that directs users around to the various services that are offered. 
+
+This project was also designed in order to meet all accessibilty standards. 
+
+To access this project directly, please follow this link: https://asecord92.github.io/Horiseon
